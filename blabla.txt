@@ -1,0 +1,98 @@
+Methocarbamol
+From Wikipedia, the free encyclopedia
+Methocarbamol
+Methocarbamol.svg
+Clinical data
+AHFS/Drugs.com	Monograph
+MedlinePlus	a682579
+Pregnancy
+category
+AU: B2
+US: C (Risk not ruled out)
+Routes of
+administration	Oral, intravenous
+ATC code
+M03BA03 (WHO)
+Legal status
+Legal status
+CA: OTC
+US: ℞-only
+Pharmacokinetic data
+Metabolism	Hepatic
+Biological half-life	1.14–1.24 hours[1]
+Identifiers
+IUPAC name[show]
+CAS Number
+532-03-6 Yes
+PubChem CID
+4107
+IUPHAR/BPS
+6829
+DrugBank
+DB00423 Yes
+ChemSpider
+3964 Yes
+UNII
+125OD7737X
+KEGG
+D00402 Yes
+ChEBI
+CHEBI:6832
+ChEMBL
+CHEMBL1201117
+ECHA InfoCard	100.007.751 Edit this at Wikidata
+Chemical and physical data
+Formula	C11H15NO5
+Molar mass	241.241 g/mol
+3D model (JSmol)
+Interactive image
+SMILES[show]
+InChI[show]
+ Yes (what is this?)  (verify)
+Methocarbamol is a central muscle elaxant used to treat skeletal muscle spasms. Under the trade name Robaxin, it is marketed by Actient Pharmaceuticals in the United States and Pfizer in Canada. The mechanism of action of methocarbamol is currently unknown, but may involve the inhibition of carbonic anhydrase.[2] The muscle relaxant effects of methocarbamol are largely attributed to central depressant effects;[3] however, peripheral effects of methocarbamol to prolong muscle refractory period have also been reported.[4]
+
+Contents
+1	Side-effects
+1.1	Abuse potential
+2	Metabolism
+3	Marketing
+4	See also
+5	References
+Side-effects
+Potential side-effects include: drowsiness, dizziness, clumsiness (ataxia), upset stomach, flushing, blurred vision, and fever. Both tachycardia (fast heart rate) and bradycardia (slow heart rate) have been reported;[5][6] these can be serious. Other serious side-effects include the development of a severe skin rash or itching, fainting, jaundice, persistent nausea/vomiting, stomach/abdominal pain, mental/mood changes, trouble urinating, and signs of infection. If taken in large amounts at once or more than directed or as prescribed, dysphoria or suicidal thoughts may occur.[7] In addition, methocarbamol may cause urine to turn black, blue, or green. However, this effect is harmless.[8]
+
+Methocarbamol has a high therapeutic index, i.e., a wide range of safe and effective dosages. Consumer (OTC) doses are in the range 3–6 g per day,[9] while clinical doses can be as high as 24 g per day for severe conditions such as tetanus.[10]
+
+Because of the potential for side-effects, this drug is considered to be a high-risk medication for the elderly.[11]
+
+Abuse potential
+Unlike other carbamates such as meprobamate and its prodrug carisoprodol, methocarbamol has greatly reduced abuse potential. Studies comparing it to the benzodiazepine lorazepam and the antihistamine diphenhydramine, along with placebo, find that methocarbamol produces increased "liking" responses and some sedative-like effects, however, at higher doses dysphoria is reported. It is considered to have an abuse profile similar to, but weaker than, lorazepam.[12]
+
+Metabolism
+Methocarbamol is the carbamate of guaifenesin, but does not produce guaifenesin as a metabolite, because the carbamate bond is not hydrolyzed metabolically; metabolism is by Phase I ring hydroxylation and O-demethylation, followed by Phase II conjugation. All the major metabolites are unhydrolyzed carbamates.[13][14]
+
+Marketing
+
+Generic Methocarbamol 750mg Oral Tablet.
+Methocarbamol without other ingredients is sold under the brand name Robaxin in the U.K., U.S. and Canada; it is marketed as Lumirelax in France, Ortoton in Germany and many other names world-wide.[15] In combination with other active ingredients it is sold under other names: with acetaminophen (Paracetamol), under trade names Robaxacet and Tylenol Body Pain Night; with ibuprofen as Robax Platinum; with acetylsalicylic acid as Robaxisal in the U.S. and Canada.[16][17] However, in Spain the tradename Robaxisal is used for the Paracetamol combination instead of Robaxacet. These combinations are also available from independent manufacturers under generic names.
+
+See also
+Mephenoxalone
+References
+ Sica DA, Comstock TJ, Davis J, Manning L, Powell R, Melikian A, Wright G (1990). "Pharmacokinetics and protein binding of methocarbamol in renal insufficiency and normals". European Journal of Clinical Pharmacology. 39 (2): 193–4. doi:10.1007/BF00280060. PMID 2253675.
+ Parr JS, Khalifah RG (1992). "Inhibition of carbonic anhydrases I and II by N-unsubstituted carbamate esters". J Biol Chem. 267 (35): 25044–25050. PMID 1460006.
+ Truitt EB Jr.; Little JM. (1958). "A pharmacologic comparison of methocarbamol (AHR-85), the monocarbamate of 3-(o-methoxyphenoxy)-1,2-propanediol with chemically related interneuronal depressant drugs". J Pharmacol Exp Ther. 122 (2): 239–246. PMID 13514612.
+ Crankshaw DP, Raper C (1968). "Some studies on peripheral actions of mephenesin, methocarbamol and diazepam". Br J Pharmacol. 34 (3): 579–590. doi:10.1111/j.1476-5381.1968.tb08486.x. PMC 1703503 Freely accessible. PMID 5726787.
+ medical-dictionary_thefreedictionary-methocarbamol
+ Drugs.com-methocarbamol-side-effects
+ METHOCARBAMOL – ORAL (Robaxin) side effects, medical uses, and drug interactions. Medicinenet.com. Retrieved on 2011-11-09.
+ Methocarbamol: MedlinePlus Drug Information. Nlm.nih.gov. Retrieved on 2011-11-09.
+ http://www.rxlist.com/robaxin-drug/indications-dosage.htm
+ https://www.drugs.com/dosage/methocarbamol.html
+ See NCQA’s HEDIS Measure: Use of High Risk Medications in the Elderly Archived 2010-02-01 at the Wayback Machine.
+ Preston KL, Wolf B, Guarino JJ, Griffiths RR (1992). "Subjective and behavioral effects of diphenhydramine, lorazepam and methocarbamol: evaluation of abuse liability". Journal of Pharmacology and Experimental Therapeutics. 262 (2): 707–20. PMID 1501118.
+ Methocarbamol. In: DRUGDEX System [intranet database]. Greenwood Village, Colorado: Thomson Healthcare; c1974–2009 [cited 2009 Feb 10].
+ Bruce RB, Turnbull LB, Newman JH (Jan 1971). "Metabolism of methocarbamol in the rat, dog, and human". J Pharm Sci. 60 (1): 104–106. doi:10.1002/jps.2600600120. PMID 5548215.
+ "Methocarbamol". Drugs.com. Retrieved 12 May 2018.
+ "New Drugs and Indications Reviewed at the May 2003 DEC Meeting" (PDF). ESI Canada. Archived from the original (PDF) on 2011-07-10. Retrieved 2008-11-14.
+ "Tylenol Body Pain Night Overview and Dosage". Tylenol Canada. Archived from the original (website) on 2012-03-31. Retrieved 2012-04-23.
